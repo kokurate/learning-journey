@@ -24,4 +24,13 @@
 - Quality Aassurance, Quality Control, Quality Engineering
 - Quality Assurance vs Quality Control
 - Levels of Software Testing (Dynamic Testing)
-- Unit Testing, Integrationg Testing , System Testing and User Acceptance Testing (UAT) 
+- Unit Testing, Integrationg Testing , System Testing and User Acceptance Testing (UAT)
+#### part 4 https://twitter.com/kokurate/status/1693570661531394098?s=20 (08212023)
+[Video](https://youtu.be/G0bnna1Wxs4)
+- System Testing Types
+- GUI Testing
+- GUI Testing Checklist
+- Usability Testing
+- Functional Testing (Object Properties Testing, Database Testing, Error Handling, Calculations/Manipulations Testing, Link Existence & Links Execution, Cookies & Sessions)
+- Non-Functional Testing (Performance Testing (Load, Stress, Volume), Security Testing, Compatibility Testing, Configuration Testing, Installation Testing, Sanitazion/Garbage Testing)
+- Functional Testing vs Non-Functional Testing
