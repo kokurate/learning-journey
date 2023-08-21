@@ -22,3 +22,10 @@
 - Static Testing & Dynamic Testing
 - Verification & Validation
 - White Box and Black box Testing Method
+#### part 3 https://twitter.com/kokurate/status/1693495729963344370?s=20 (08212023)
+[Video](https://youtu.be/MasXvD3z7uE)
+- Static Testing Technique
+- Quality Aassurance, Quality Control, Quality Engineering
+- Quality Assurance vs Quality Control
+- Levels of Software Testing (Dynamic Testing)
+- Unit Testing, Integrationg Testing , System Testing and User Acceptance Testing (UAT) 
