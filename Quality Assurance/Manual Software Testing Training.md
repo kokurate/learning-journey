@@ -34,3 +34,16 @@
 - Functional Testing (Object Properties Testing, Database Testing, Error Handling, Calculations/Manipulations Testing, Link Existence & Links Execution, Cookies & Sessions)
 - Non-Functional Testing (Performance Testing (Load, Stress, Volume), Security Testing, Compatibility Testing, Configuration Testing, Installation Testing, Sanitazion/Garbage Testing)
 - Functional Testing vs Non-Functional Testing
+#### part 5 https://twitter.com/kokurate/status/1693850207098966057?s=20 (08222023)
+[Video](https://youtu.be/0gpm4llQ06Y)
+- Regression Testing (Unit, Regional, Full)
+- Re-Testing
+- Regression Testing vs Re-Testing with example
+- Smoke vs Sanity Testing
+- Exploratory Testing
+- Adhoc Testing
+- Monkey/Gorila Testing
+- Adhoc vs Monkey/Gorila  vs Exploratory Testing
+- Positive and Negative Testing
+- END to END Testing
+- Globalization/Internationalization [I18] Testing & Localization Testing
