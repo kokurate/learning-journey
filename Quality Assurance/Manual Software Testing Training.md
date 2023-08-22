@@ -47,3 +47,11 @@
 - Positive and Negative Testing
 - END to END Testing
 - Globalization/Internationalization [I18] Testing & Localization Testing
+#### part 6 https://twitter.com/kokurate/status/1693893923788460090?s=20 (08222023)
+[Video](https://youtu.be/Wsw0pywdR5k)
+- Introduction to Test Design Techniques
+-  Equivalence Class Partitioning (ECP)
+-   Boundary Value Analysis (BVA)
+-   Decision Table
+-   State Transition
+-   Error Guessing
