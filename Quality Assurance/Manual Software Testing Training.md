@@ -55,3 +55,8 @@
 -   Decision Table
 -   State Transition
 -   Error Guessing
+#### part 7 https://twitter.com/kokurate/status/1694972935667380399?s=20 (08252023)
+[Video](https://youtu.be/_AnZUfQigr0?si=VxitrIIlsbSxDmCD)
+- STLC Definition
+- STLC Phase (Test Planning, Test Designing, Test Execution, Defect Reporting & Tracking, Test Closure/Sign-Off) 
+
