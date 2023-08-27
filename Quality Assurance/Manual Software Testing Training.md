@@ -59,4 +59,4 @@
 [Video](https://youtu.be/_AnZUfQigr0?si=VxitrIIlsbSxDmCD)
 - STLC Definition
 - STLC Phase (Test Planning, Test Designing, Test Execution, Defect Reporting & Tracking, Test Closure/Sign-Off) 
-
+#### part 8 Coming Soon!
