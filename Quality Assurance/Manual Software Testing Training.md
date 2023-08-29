@@ -78,3 +78,11 @@
 - Defect Priority
 - Example of Severity and Priority
 - Defect Resolution
+#### part 9 https://twitter.com/kokurate/status/1696443438944899376?s=20 (08292023)
+[Video](https://youtu.be/D2HwMQnccEI?si=u_3ZFoB0aGl8VvfG)
+- Defect/Bug Life Cycle
+- Test Cycle Closure
+- Test Metrics (calculations)
+- Defect Metrics
+- QA Testing Activities
+- 7 Principles of Software Testing
