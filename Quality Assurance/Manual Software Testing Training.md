@@ -59,4 +59,22 @@
 [Video](https://youtu.be/_AnZUfQigr0?si=VxitrIIlsbSxDmCD)
 - STLC Definition
 - STLC Phase (Test Planning, Test Designing, Test Execution, Defect Reporting & Tracking, Test Closure/Sign-Off) 
-#### part 8 Coming Soon!
+#### part 8 https://twitter.com/kokurate/status/1696397709358649629?s=20 (08292023)
+[Video](https://youtu.be/iAo_aFOwxSs?si=bJ5oGsZhJB--nryL)
+- Test Plan Contents
+- Use Case, Test Scenario, Test Case
+- Use Case vs Test Case
+- Test Scenario vs Test Case
+- Test Suite
+- What is test case? Test Case Template
+- Requirement Traceability Matrix (RTM)
+- Sample RTM
+- Test Environment
+- Test Execution
+- Guidelines for Test Execution
+- Defects/Bugs Contents (Reporting Tools)
+- Defects Classification Severity/Priority
+- Defect Severity
+- Defect Priority
+- Example of Severity and Priority
+- Defect Resolution
