@@ -5,6 +5,7 @@
 
 
 ## 1 - [Quality Assurance](https://github.com/kokurate/learning-journey/blob/main/Quality%20Assurance.md)
+## Coming Soon!
 
 
 
